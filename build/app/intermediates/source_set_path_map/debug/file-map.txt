@@ -1,0 +1,12 @@
+com.example.calculator_app-jetified-annotation-experimental-1.1.0-0 C:\Users\USER\.gradle\caches\transforms-3\2cec17a2d47f950880a2bdca5c2f7ede\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.calculator_app-core-1.6.0-1 C:\Users\USER\.gradle\caches\transforms-3\8b8b858c35be63ea4749b8a79584746a\transformed\core-1.6.0\res
+com.example.calculator_app-jetified-window-java-1.0.0-beta04-2 C:\Users\USER\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.calculator_app-jetified-window-1.0.0-beta04-3 C:\Users\USER\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\res
+com.example.calculator_app-debug-4 D:\OneDrive\Desktop\Calculator-\android\app\src\debug\res
+com.example.calculator_app-main-5 D:\OneDrive\Desktop\Calculator-\android\app\src\main\res
+com.example.calculator_app-pngs-6 D:\OneDrive\Desktop\Calculator-\build\app\generated\res\pngs\debug
+com.example.calculator_app-resValues-7 D:\OneDrive\Desktop\Calculator-\build\app\generated\res\resValues\debug
+com.example.calculator_app-rs-8 D:\OneDrive\Desktop\Calculator-\build\app\generated\res\rs\debug
+com.example.calculator_app-mergeDebugResources-9 D:\OneDrive\Desktop\Calculator-\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.calculator_app-mergeDebugResources-10 D:\OneDrive\Desktop\Calculator-\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.calculator_app-merged_res-11 D:\OneDrive\Desktop\Calculator-\build\app\intermediates\merged_res\debug
